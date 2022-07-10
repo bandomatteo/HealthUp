@@ -1,0 +1,142 @@
+[
+    {
+        "data": "lun lug 11 2022",
+        "items": [
+            {
+                "grammi:": 50,
+                "nomePiatto:": "Torta di albumi e mele light",
+                "tipo:": "COLAZIONE"
+            },
+            {
+                "grammi:": 50,
+                "nomePiatto:": "Torta di mele",
+                "tipo:": "COLAZIONE"
+            },
+            {
+                "grammi:": 100,
+                "nomePiatto:": "Kebab",
+                "tipo:": "CENA"
+            },
+            {
+                "grammi:": 10,
+                "nomePiatto:": "Torta di mele",
+                "tipo:": "CENA"
+            },
+            {
+                "grammi:": 10,
+                "nomePiatto:": "Torta di mele",
+                "tipo:": "PRANZO"
+            }
+        ]
+    },
+    {
+        "data": "mar lug 12 2022",
+        "items": [
+            {
+                "grammi:": 150,
+                "nomePiatto:": "Kebab",
+                "tipo:": "PRANZO"
+            }
+        ]
+    },
+    {
+        "data": "mer lug 13 2022",
+        "items": [
+            {
+                "grammi:": 200,
+                "nomePiatto:": "Kebab",
+                "tipo:": "COLAZIONE"
+            },
+            {
+                "grammi:": 100,
+                "nomePiatto:": "Torta di mele",
+                "tipo:": "PRANZO"
+            },
+            {
+                "grammi:": 150,
+                "nomePiatto:": "Torta di mele",
+                "tipo:": "CENA"
+            }
+        ]
+    },
+    {
+        "data": "gio lug 14 2022",
+        "items": [
+            {
+                "grammi:": 250,
+                "nomePiatto:": "Torta di mele",
+                "tipo:": "CENA"
+            },
+            {
+                "grammi:": 250,
+                "nomePiatto:": "Kebab",
+                "tipo:": "PRANZO"
+            },
+            {
+                "grammi:": 50,
+                "nomePiatto:": "Kebab",
+                "tipo:": "CENA"
+            }
+        ]
+    },
+    {
+        "data": "ven lug 15 2022",
+        "items": [
+            {
+                "grammi:": 100,
+                "nomePiatto:": "Torta di mele",
+                "tipo:": "PRANZO"
+            },
+            {
+                "grammi:": 100,
+                "nomePiatto:": "Torta di mele",
+                "tipo:": "COLAZIONE"
+            },
+            {
+                "grammi:": 150,
+                "nomePiatto:": "Kebab",
+                "tipo:": "CENA"
+            }
+        ]
+    },
+    {
+        "data": "sab lug 16 2022",
+        "items": [
+            {
+                "grammi:": 50,
+                "nomePiatto:": "Torta di mele",
+                "tipo:": "COLAZIONE"
+            },
+            {
+                "grammi:": 200,
+                "nomePiatto:": "Kebab",
+                "tipo:": "PRANZO"
+            },
+            {
+                "grammi:": 100,
+                "nomePiatto:": "Kebab",
+                "tipo:": "CENA"
+            }
+        ]
+    },
+    {
+        "data": "dom lug 17 2022",
+        "items": [
+            {
+                "grammi:": 150,
+                "nomePiatto:": "Torta di mele",
+                "tipo:": "CENA"
+            },
+            {
+                "grammi:": 100,
+                "nomePiatto:": "Torta di mele",
+                "tipo:": "PRANZO"
+            },
+            {
+                "grammi:": 100,
+                "nomePiatto:": "Torta di mele",
+                "tipo:": "COLAZIONE"
+            }
+        ]
+    }
+]

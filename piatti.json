@@ -1,0 +1,23 @@
+[
+    {
+        "calorie": 233,
+        "carboidrati": 33,
+        "grassi": 9,
+        "nomePiatto": "Torta di albumi e mele light",
+        "proteine": 4
+    },
+    {
+        "calorie": 230,
+        "carboidrati": 34,
+        "grassi": 10,
+        "nomePiatto": "Torta di mele",
+        "proteine": 3
+    },
+    {
+        "calorie": 248,
+        "carboidrati": 24,
+        "grassi": 12,
+        "nomePiatto": "Kebab",
+        "proteine": 10
+    }
+]
